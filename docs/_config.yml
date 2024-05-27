@@ -13,6 +13,9 @@ header_pages:
 include:
     - _pages
 
+plugins:
+  - jekyll-redirect-from
+  
 exclude:
     - .gitignore
     - Gemfile

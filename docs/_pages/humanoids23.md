@@ -1,12 +1,15 @@
 ---
 permalink: /humanoids23
 layout: page
-title: Humanoids 23
+title: Humanoids23
 usemathjax: true
 ---
 ## Combining Shape Completion and Grasp Prediction for Fast and Versatile Grasping with a Multi-Fingered Hand
 
-[Matthias Humt](https://scholar.google.de/citations?user=MOJSVsUAAAAJ){:target="_blank"} &ensp;  [Dominik Winkelbauer](https://scholar.google.com/citations?user=kduGd8wAAAAJ){:target="_blank"} &ensp; [Ulrich Hillenbrand](https://rmc.dlr.de/rm/de/staff/ulrich.hillenbrand/){:target="_blank"} &ensp; [Berthold Bäuml](https://scholar.google.com/citations?user=fjvpDsEAAAAJ){:target="_blank"}
+[Matthias Humt](https://scholar.google.de/citations?user=MOJSVsUAAAAJ){:target="_blank"} &ensp; 
+[Dominik Winkelbauer](https://scholar.google.com/citations?user=kduGd8wAAAAJ){:target="_blank"} &ensp; 
+[Ulrich Hillenbrand](https://rmc.dlr.de/rm/de/staff/ulrich.hillenbrand/){:target="_blank"} &ensp; 
+[Berthold Bäuml](https://scholar.google.com/citations?user=fjvpDsEAAAAJ){:target="_blank"}
 
 <p align="center">
 <iframe width="746" height="420" src="https://www.youtube.com/embed/j8Lx8AjsN94" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

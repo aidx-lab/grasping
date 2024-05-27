@@ -1,12 +1,14 @@
 ---
 permalink: /iros23
 layout: page
-title: IROS 23
+title: IROS23
 usemathjax: true
 ---
 ## Learning-based Real-time Torque Prediction for Grasping Unknown Objects with a Multi-Fingered Hand
 
-[Dominik Winkelbauer](https://scholar.google.com/citations?user=kduGd8wAAAAJ){:target="_blank"} &ensp; [Berthold Bäuml](https://scholar.google.com/citations?user=fjvpDsEAAAAJ){:target="_blank"} &ensp; [Rudolph Triebel](https://scholar.google.com/citations?user=SuOUxjUAAAAJ){:target="_blank"}
+[Dominik Winkelbauer](https://scholar.google.com/citations?user=kduGd8wAAAAJ){:target="_blank"} &ensp; 
+[Berthold Bäuml](https://scholar.google.com/citations?user=fjvpDsEAAAAJ){:target="_blank"} &ensp; 
+[Rudolph Triebel](https://scholar.google.com/citations?user=SuOUxjUAAAAJ){:target="_blank"}
 
 
 <p align="center">
