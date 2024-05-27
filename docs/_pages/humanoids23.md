@@ -1,4 +1,5 @@
 ---
+permalink: /humanoids23
 layout: page
 title: Humanoids 23
 usemathjax: true

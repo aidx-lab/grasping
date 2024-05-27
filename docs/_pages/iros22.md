@@ -1,4 +1,5 @@
 ---
+permalink: /iros22
 layout: page
 title: IROS 22
 usemathjax: true
