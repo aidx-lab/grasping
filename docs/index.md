@@ -7,6 +7,18 @@ title: Overview
 This site complements our research on grasping. 
 For more information, please refer to one of the papers below.
 
+### [A Learning-based Controller for Multi-Contact Grasps on Unknown Objects with a Dexterous Hand](_pages/iros24.md)
+IROS 2024 by
+[Dominik Winkelbauer](https://scholar.google.com/citations?user=kduGd8wAAAAJ){:target="_blank"}, 
+[Rudolph Triebel](https://scholar.google.com/citations?user=SuOUxjUAAAAJ){:target="_blank"} and 
+[Berthold Bäuml](https://scholar.google.com/citations?user=fjvpDsEAAAAJ){:target="_blank"}.
+
+<p align="center">
+<img src="/grasping/assets/imgs/iros24/front.png" alt="drawing" width="800"/>
+</p>
+
+--- 
+
 ### [Combining Shape Completion and Grasp Prediction for Fast and Versatile Grasping with a Multi-Fingered Hand](_pages/humanoids23.md)
 Humanoids 2023 by
 [Matthias Humt](https://scholar.google.de/citations?user=MOJSVsUAAAAJ){:target="_blank"}, 
