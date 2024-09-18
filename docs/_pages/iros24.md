@@ -26,10 +26,10 @@ Then, the torques necessary to counteract the estimated wrench while keeping the
 The torques are commanded via desired joint angles to an underlying joint-level impedance controller.
 To reach real-time performance, we propose a learning-based approach that is based on a wrench estimator- and a torque predictor neural network.
 Both networks are trained in a supervised fashion using data generated via the analytical formulation of the controller.
-In an extensive simulation-based evaluation, we show that our controller is able to keep \SI{83.1}{\percent}
- of the tested grasps stable when applying external wrenches with up to \SI{10}{\newton}.
+In an extensive simulation-based evaluation, we show that our controller is able to keep 83.1%
+ of the tested grasps stable when applying external wrenches with up to 10N.
 At the same time, we outperform the two tested baselines by being more efficient and inducing less involuntary object movement.
-Finally, we show that the controller also works on the real DLR-Hand II reaching a cycle time of \SI{6}{\milli\second}.
+Finally, we show that the controller also works on the real DLR-Hand II reaching a cycle time of 6ms.
 
 Cite this paper as:
 
