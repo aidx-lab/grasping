@@ -13,6 +13,8 @@ IROS 2024 by
 [Rudolph Triebel](https://scholar.google.com/citations?user=SuOUxjUAAAAJ){:target="_blank"} and 
 [Berthold Bäuml](https://scholar.google.com/citations?user=fjvpDsEAAAAJ){:target="_blank"}.
 
+[Full Paper](https://arxiv.org/abs/2409.12339){:target="_blank"}
+
 <img src="/grasping/assets/imgs/iros24/front.png" alt="drawing" width="200"/>
 
 
