@@ -1,7 +1,7 @@
 ---
 permalink: /iros22
 layout: page
-title: IROS22
+title: IROS 2022
 usemathjax: true
 ---
 ## A Two-Stage Learning Architecture That Generates High-Quality Grasps for a Multi-Fingered Hand 

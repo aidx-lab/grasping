@@ -1,7 +1,7 @@
 ---
 permalink: /humanoids23
 layout: page
-title: Humanoids23
+title: Humanoids 2023
 usemathjax: true
 ---
 ## Combining Shape Completion and Grasp Prediction for Fast and Versatile Grasping with a Multi-Fingered Hand

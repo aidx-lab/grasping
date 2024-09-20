@@ -1,7 +1,7 @@
 ---
 permalink: /iros24
 layout: page
-title: IROS24
+title: IROS 2024
 usemathjax: true
 ---
 ## A Learning-based Controller for Multi-Contact Grasps on Unknown Objects with a Dexterous Hand

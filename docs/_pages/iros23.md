@@ -1,7 +1,7 @@
 ---
 permalink: /iros23
 layout: page
-title: IROS23
+title: IROS 2023
 usemathjax: true
 ---
 ## Learning-based Real-time Torque Prediction for Grasping Unknown Objects with a Multi-Fingered Hand
