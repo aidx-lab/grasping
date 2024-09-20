@@ -11,7 +11,7 @@ usemathjax: true
 [Berthold Bäuml](https://scholar.google.com/citations?user=fjvpDsEAAAAJ){:target="_blank"}
 
 <p align="center">
-<video src="/grasping/assets/imgs/iros24/video.mp4" controls="controls" muted="muted" width="746" height="420">
+<video src="/grasping/assets/imgs/iros24/video.mp4" controls="controls" muted="muted" width="746" style="{max-width: 100%}">
 </video>
 </p>
 
