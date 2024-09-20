@@ -10,9 +10,10 @@ usemathjax: true
 [Rudolph Triebel](https://scholar.google.com/citations?user=SuOUxjUAAAAJ){:target="_blank"} &ensp; 
 [Berthold Bäuml](https://scholar.google.com/citations?user=fjvpDsEAAAAJ){:target="_blank"}
 
-
 <p align="center">
-<img src="/grasping/assets/imgs/iros24/front.png" alt="drawing" width="200"/>
+<video src="/grasping/assets/imgs/iros24/video.mp4" \controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" width="746" height="420">
+
+  </video>
 </p>
 
 [Full Paper](https://arxiv.org/abs/2409.12339){:target="_blank"}
