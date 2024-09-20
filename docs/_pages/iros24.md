@@ -15,6 +15,7 @@ usemathjax: true
 <img src="/grasping/assets/imgs/iros24/front.png" alt="drawing" width="200"/>
 </p>
 
+[Full Paper](https://arxiv.org/abs/2409.12339){:target="_blank"}
 
 ## Abstract
 
