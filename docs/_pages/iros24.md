@@ -12,8 +12,7 @@ usemathjax: true
 
 <p align="center">
 <video src="/grasping/assets/imgs/iros24/video.mp4" \controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" width="746" height="420">
-
-  </video>
+</video>
 </p>
 
 [Full Paper](https://arxiv.org/abs/2409.12339){:target="_blank"}
